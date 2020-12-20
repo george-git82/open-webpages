@@ -1,0 +1,21 @@
+{
+  "name": "open-webpages",
+  "version": "1.0.0",
+  "description": "Automates opening of List of URLs in chrome, edge, firefox.",
+  "main": "main.js",
+  "dependencies": {
+    "chrome-launcher": "^0.13.4",
+    "cli-progress": "^3.8.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "script": "node ./main.js",
+    "test": "node ./main.js true"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git remote -v"
+  },
+  "author": "Abhishek Ghosh",
+  "license": "MIT"
+}
