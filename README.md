@@ -25,5 +25,5 @@ npm run script true
 ```code
 cd <absolute-path>\Open-webPages
 echo running open-webpages
-npm run script true
+npm run script
 ```
