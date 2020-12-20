@@ -13,3 +13,11 @@ npm run script
 ```node
 npm run script true
 ```
+
+## Run script from bat, edit "runScript.bat"
+
+```code
+cd <absolute-path>\Open-webPages
+echo running open-webpages
+npm run script true
+```
